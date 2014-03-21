@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=Cpu-Z
+Comment=Cpu-Z, system information tool and cpu frequency control
+Exec=/opt/cpuMonitor/main.py
+Icon=/opt/cpuMonitor/img/CPU-Z.png
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=System;
